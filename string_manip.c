@@ -3,6 +3,8 @@
  *  Licence: GPL v3
  *
  */
+#include <ctype.h>
+#include <string.h>
 
 void strip(char *s); /** removes external spaces and newline characters from a string */
 
@@ -55,6 +57,7 @@ void strip(char *s)
             end = slen - 1;
         }
     }
+    
     /* Move the characters to the left in place of spaces */
 
     if ( start > 0 )
