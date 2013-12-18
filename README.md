@@ -1,7 +1,7 @@
 c_usefull
 =========
 
-Here are some very basic usefull C functions that I had to recode many times. 
+Here are some usefull C functions that I had to recode many times. 
 So I put them here to be able to use them easily. Furthermore, it could be usefull for anyone interested.
 
 The provided functions concern:
