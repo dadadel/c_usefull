@@ -13,3 +13,15 @@ Provides functions for string manipulating as striping, changing to lower or upp
 - basic_list:
 
 Provides basic chained list functions (init, add_element, release resources)
+
+Or unuseful code:
+
+- multiply:
+
+This provide a function multipying two numbers without using any multiplication or division :)
+This is not useful :)
+
+Syntaxe:
+
+    gcc -o multiply multiply
+    ./multiply 42 42
